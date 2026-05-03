@@ -1,0 +1,1 @@
+# tsumuri-assets-test
