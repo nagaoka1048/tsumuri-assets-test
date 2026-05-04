@@ -1,0 +1,8 @@
+# Assets List
+
+| file name | relative path | GitHub Pages URL | usage memo | alt text draft |
+| --- | --- | --- | --- | --- |
+| pet-figure-hero.png | images/pet-figure-hero.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/pet-figure-hero.png |  | Pet figure hero image |
+| pet-figure-hero-01.png | images/pet-figure-hero-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/pet-figure-hero-01.png |  | Pet figure hero image variation 01 |
+| pet-figure-hero-02.png | images/pet-figure-hero-02.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/pet-figure-hero-02.png |  | Pet figure hero image variation 02 |
+| pet-figure-hero-007.png | images/pet-figure-hero-007.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/pet-figure-hero-007.png |  | Pet figure hero image variation 007 |
