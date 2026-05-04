@@ -13,3 +13,4 @@
 | 3d-print-blog-01.png | images/3d-print-blog-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-print-blog-01.png | 3D技術ブログヒーロー画像 | 3D技術ブログヒーロー用画像 |
 | 3d-print-payment-01.png | images/3d-print-payment-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-print-payment-01.png | 3Dお支払いヒーロー画像 | 3Dお支払いヒーロー用画像 |
 | 3d-print-hero-04.png | images/3d-print-hero-04.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-print-hero-04.png | 3D明るい工場ヒーロー画像 | 3D明るい工場ヒーロー用画像 |
+| 3d-print-hero-05.png | images/3d-print-hero-05.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-print-hero-05.png | 3D明るい会社ヒーロー画像 | 3D明るい会社ヒーロー用画像 |
