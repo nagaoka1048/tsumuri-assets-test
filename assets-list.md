@@ -17,3 +17,4 @@
 | pet-figure-hero-04.png | images/pet-figure-hero-04.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/pet-figure-hero-04.png | ペットフィギュア目安金額項目画像 | ペットフィギュアの目安金額を示す項目画像 |
 | 3d-modeling-hero-01.png | images/3d-modeling-hero-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-modeling-hero-01.png | 3Dモデリングページのヒーロー画像候補 | デスク上の3Dモデル、スケッチ、ノートPCを写した3Dモデリング制作イメージ |
 | 3d-modeling-hero-02.png | images/3d-modeling-hero-02.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-modeling-hero-02.png | 3Dモデリングページのヒーロー画像候補02 | ライオン像の写真、ワイヤーフレーム、3Dモデルを並べた3Dモデリング制作イメージ |
+| 3d-modeling-hero-03.png | images/3d-modeling-hero-03.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-modeling-hero-03.png | 3Dモデリングページのヒーロー画像候補03 | 3Dモデル制作の工程とデジタル設計作業を表現したヒーロー画像 |
