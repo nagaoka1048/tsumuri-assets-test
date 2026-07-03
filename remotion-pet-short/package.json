@@ -1,0 +1,23 @@
+{
+  "name": "remotion-pet-short",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render PetFigureTransform out/pet-figure-transform.mp4 --muted",
+    "render:preview": "node scripts/render-preview.mjs",
+    "still": "remotion still PetFigureTransform --frame=120 --scale=0.35 out/frame-120.png"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.469",
+    "remotion": "4.0.469",
+    "sharp": "^0.34.5",
+    "sharp": "^0.34.2",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "typescript": "^5.8.3"
+  }
+}
