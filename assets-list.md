@@ -19,3 +19,8 @@
 | 3d-modeling-hero-01.png | images/3d-modeling-hero-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-modeling-hero-01.png | 3Dモデリングページのヒーロー画像候補 | デスク上の3Dモデル、スケッチ、ノートPCを写した3Dモデリング制作イメージ |
 | 3d-modeling-hero-02.png | images/3d-modeling-hero-02.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-modeling-hero-02.png | 3Dモデリングページのヒーロー画像候補02 | ライオン像の写真、ワイヤーフレーム、3Dモデルを並べた3Dモデリング制作イメージ |
 | 3d-modeling-hero-03.png | images/3d-modeling-hero-03.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-modeling-hero-03.png | 3Dモデリングページのヒーロー画像候補03 | 3Dモデル制作の工程とデジタル設計作業を表現したヒーロー画像 |
+| 3d-print-b2b-production-quote-hero-01.png | images/3d-print-b2b-production-quote-hero-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-print-b2b-production-quote-hero-01.png |  |  |
+| 3d-print-hero-06.png | images/3d-print-hero-06.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/3d-print-hero-06.png |  |  |
+| manga-girl-01.png | images/manga-girl-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/manga-girl-01.png |  |  |
+| pet-figure-hero-03.png | images/pet-figure-hero-03.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/pet-figure-hero-03.png |  |  |
+| tsumurimake-payment-01.png | images/tsumurimake-payment-01.png | https://nagaoka1048.github.io/tsumuri-assets-test/images/tsumurimake-payment-01.png |  |  |
